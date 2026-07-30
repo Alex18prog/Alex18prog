@@ -1,16 +1,88 @@
-## Hi there 👋
 
-<!--
-**Alex18prog/Alex18prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! Soy Aleix 👋</h1>
+<h3 align="center">Full-Stack Developer · Java/Spring Boot & .NET</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Construyo APIs REST robustas y aplicaciones full-stack, con foco en backend (Java, Spring Boot, .NET) y frontend en React. Actualmente en búsqueda de nuevas oportunidades. 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:alex18prog@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alex18prog%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alex-pascual-ortega-7602222b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alex%20Pascual%20Ortega-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Estado-Buscando%20oportunidades-success?style=flat" />
+</p>
+
+---
+
+### 🛠️ Stack técnico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🌱 PlantPulse](https://github.com/Alex18prog/plantpulse)**
+Sistema de mantenimiento industrial con telemetría de sensores en tiempo real. Java/Spring Boot + React, alertas en tiempo real, listo para Docker.
+`Java` `Spring Boot` `React` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**[📋 Task Manager API](https://github.com/Alex18prog/task-manager-api)**
+API REST construida con .NET 9, EF Core y SQL Server, dockerizada.
+`.NET 9` `EF Core` `SQL Server` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[📊 Encuestas API](https://github.com/Alex18prog/encuestas-api)**
+Proyecto Spring Boot de encuestas con API REST para gestionar usuarios y encuestas.
+`Java` `Spring Boot` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+**[🥗 Plan Nutricional](https://github.com/Alex18prog/proyecto-final-daw-PlanNutricional)**
+Aplicación para crear un plan nutricional según los objetivos del usuario. Proyecto final de DAW.
+`C#` `.NET`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex18prog&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex18prog&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex18prog&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">📫 ¿Hablamos? Escríbeme a <a href="mailto:alex18prog@gmail.com">alex18prog@gmail.com</a> o conecta conmigo en <a href="https://www.linkedin.com/in/alex-pascual-ortega-7602222b7">LinkedIn</a></p>
