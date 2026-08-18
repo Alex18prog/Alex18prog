@@ -72,16 +72,16 @@ Agente de IA para triaje de tickets de soporte, con function calling real (Gemin
 <tr>
 <td width="33%" valign="top">
 
-**[📋 Task Manager API](https://github.com/Alex18prog/task-manager-api)**
-API REST construida con .NET 9, EF Core y SQL Server, dockerizada.
-`.NET 9` `EF Core` `SQL Server` `Docker`
+**[🧩 SagaFlow](https://github.com/Alex18prog/sagaflow)**
+Procesamiento de pedidos distribuido con el patrón Saga: microservicios en .NET, RabbitMQ, transacciones compensatorias.
+`.NET` `RabbitMQ` `Docker`
 
 </td>
 <td width="33%" valign="top">
 
-**[📊 Encuestas API](https://github.com/Alex18prog/encuestas-api)**
-Proyecto Spring Boot de encuestas con API REST para gestionar usuarios y encuestas.
-`Java` `Spring Boot` `REST API`
+**[🔁 CapaLoop](https://github.com/Alex18prog/capaloop)**
+QMS con el flujo real de ISO 9001 (No Conformidades y CAPA), roles y auditoría inmutable. [Frontend en Angular](https://github.com/Alex18prog/capaloop-frontend).
+`Java` `Spring Boot` `Angular`
 
 </td>
 <td width="33%" valign="top">
