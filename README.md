@@ -7,7 +7,7 @@ Desarrollo backend en Java con Spring Boot y frontend en Angular. Me gusta const
 
 <p align="center">
 <a href="mailto:alex18prog@gmail.com"><img src="https://img.shields.io/badge/Email-alex18prog%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: alex18prog@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/alex-pascual-ortega-7602222b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Pascual%20Ortega-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Alex Pascual Ortega" /></a>
+<a href="https://www.linkedin.com/in/aleix-pascual-ortega-7602222b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Pascual%20Ortega-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Alex Pascual Ortega" /></a>
 <a href="https://alex18prog.github.io/CV_Aleix/" target="_blank"><img src="https://img.shields.io/badge/CV-interactivo-24292F?style=flat" alt="CV interactivo" /></a>
 <img src="https://img.shields.io/badge/Estado-Buscando%20oportunidades-success?style=flat" alt="Estado: buscando oportunidades" />
 </p>
@@ -82,4 +82,4 @@ QMS con el flujo de ISO 9001 (No Conformidades y CAPA), roles, segregación de f
 
 ---
 
-<p align="center">¿Hablamos? Escríbeme a <a href="mailto:alex18prog@gmail.com">alex18prog@gmail.com</a> o conecta conmigo en <a href="https://www.linkedin.com/in/alex-pascual-ortega-7602222b7">LinkedIn</a>.</p>
+<p align="center">¿Hablamos? Escríbeme a <a href="mailto:alex18prog@gmail.com">alex18prog@gmail.com</a> o conecta conmigo en <a href="https://www.linkedin.com/in/aleix-pascual-ortega-7602222b7">LinkedIn</a>.</p>
